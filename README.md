@@ -1,0 +1,1 @@
+PixelPalette is an intuitive color picker application that allows users to extract and analyze colors directly from any uploaded image. With interactive features such as magnified color inspection, real-time RGB/HEX conversion, and clipboard copying, it is a handy tool for designers, developers, and color enthusiasts.
